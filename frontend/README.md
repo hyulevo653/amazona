@@ -1,6 +1,1 @@
-# LESSON
-1. Introduction
-2. Install Tools
-3. Create React App
-4. Create Git Repository
-5. Done
+mongodb+srv://amazona:huymy123@cluster0.m6zqk3l.mongodb.net/amazona?retryWrites=true&w=majority
