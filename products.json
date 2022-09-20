@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "631b5c35d7dffad16af59131"
+  },
+  "name": "Nike Slim shirt",
+  "slug": "nike-slim-shirt",
+  "image": "/images/p1.jpg",
+  "brand": "Nike",
+  "category": "Shirts",
+  "description": "high quality shirt",
+  "price": 120,
+  "countInStock": 10,
+  "rating": 4.5,
+  "numReviews": 32,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662737461724"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662737461724"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "631b5c35d7dffad16af59132"
+  },
+  "name": "Adidas Fit Shirt",
+  "slug": "adidas-fit-shirt",
+  "image": "/images/p2.jpg",
+  "brand": "Adidas",
+  "category": "Shirts",
+  "description": "high quality shirt",
+  "price": 250,
+  "countInStock": 1,
+  "rating": 4,
+  "numReviews": 13,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662737461725"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662737461725"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "631b5c35d7dffad16af59133"
+  },
+  "name": "Nike Slim Pant",
+  "slug": "nike-slim-pant",
+  "image": "/images/p3.jpg",
+  "brand": "Nike",
+  "category": "Pants",
+  "description": "high quality shirt",
+  "price": 25,
+  "countInStock": 8,
+  "rating": 4.5,
+  "numReviews": 10,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662737461725"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662737461725"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "631b5c35d7dffad16af59134"
+  },
+  "name": "Nike Fit Pant",
+  "slug": "nike-fit-pant",
+  "image": "/images/p4.jpg",
+  "brand": "Puma",
+  "category": "Pants",
+  "description": "high quality product",
+  "price": 65,
+  "countInStock": 12,
+  "rating": 4.5,
+  "numReviews": 10,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662737461725"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662737461725"
+    }
+  }
+}]

@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "amazona",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,10 +13,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "build": "cd backend && yarn && cd ../frontend && yarn",
+    "start:serve": "cd backend && yarn start",
+    "start:fe": "cd frontend && yarn start",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "eslintConfig": {
     "extends": [
@@ -35,5 +35,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyulevo653/amazona.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyulevo653/amazona/issues"
+  },
+  "homepage": "https://github.com/hyulevo653/amazona#readme",
+  "description": ""
 }
