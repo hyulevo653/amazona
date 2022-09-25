@@ -10,6 +10,7 @@ import uploadRouter from './routes/uploadRoutes.js';
 
 
 
+
 dotenv.config();
 console.log(process.env.MONGODB_URI);
 mongoose
