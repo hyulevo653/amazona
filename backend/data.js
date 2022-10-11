@@ -27,7 +27,7 @@ const data = {
             brand:'Nike',
             rating: 4.5,
             numReviews: 32,
-            description: 'high quality shirt',
+            description: 'hight quality shirt',
         },
         {
             // _id: '2',
