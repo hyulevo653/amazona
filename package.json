@@ -13,9 +13,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "build": "cd backend && yarn && cd ../frontend && yarn",
-    "start:serve": "cd backend && yarn start",
-    "start:fe": "cd frontend && yarn start",
+    "build": "cd backend && npm install && cd ../frontend && npm install",
+    "start:serve": "cd backend && npm run start",
+    "start:fe": "cd frontend && npm run start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "eslintConfig": {
